@@ -1,4 +1,4 @@
-
+package chapter6;
 import java.util.Scanner;
 
 public class UserInput {
